@@ -1,4 +1,4 @@
-# 👨‍💻 Roohmeiy | AWS DevOps Engineer
+# 👨‍💻 Payal Sharma | AWS DevOps Engineer
 
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" alt="DevOps Banner" width="100%"/>
@@ -26,12 +26,12 @@
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
-      <br>Ansible
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
@@ -63,6 +63,10 @@
       <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
     </tr>
   <tr>
     <td align="center" width="96">
@@ -86,13 +90,10 @@
       <br>Prometheus
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+      <br>Ansible
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
+    
   </tr>
 </table>
 
