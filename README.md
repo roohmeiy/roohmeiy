@@ -108,7 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohmeiy&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
-## 🏆 DevOps Projects
+## 🏆 Key Projects
 
 ### 🚀 [CI/CD Pipeline for Strapi on AWS ECS (Fargate)](https://github.com/roohmeiy/Strapi-Deployment)
 Designed a zero-downtime CI/CD pipeline using GitHub Actions and Terraform to deploy a Strapi app on AWS ECS Fargate with Blue-Green deployment. Provisioned AWS infrastructure (VPC, subnets, ECS, IAM, ALB) using Terraform. Automated app build, ECR image push, and ECS deployment via GitHub Actions.  
