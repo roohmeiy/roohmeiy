@@ -4,6 +4,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" alt="DevOps Banner" width="100%"/>
 </div>
 
+## 📋 Profile Summary
+
+Aspiring AWS DevOps Engineer with a BCA background. Proficient in AWS services, containerization (Docker), and container orchestration (Kubernetes). Skilled in automation (Jenkins and GitHub actions) and Infrastructure as Code (Terraform). Adept at CI/CD pipeline development and cloud resource optimization. Committed to enhancing operational efficiency through DevOps practices. 
+
+---
+
 
 ## 🔧 Skills & Technologies
 
