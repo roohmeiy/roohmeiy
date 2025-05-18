@@ -1,4 +1,4 @@
-<img src="./header.png" alt="Header" style="width: 100%;" />
+<img src="./my-header.png" alt="Header" style="width: 100%;" />
 
 ## 📋 Profile Summary
 
