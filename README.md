@@ -1,5 +1,4 @@
-![Header](./header.png)
-
+<img src="./header.png" alt="Header" style="width: 100%;" />
 
 ## 📋 Profile Summary
 
