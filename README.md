@@ -1,12 +1,9 @@
-# 👨‍💻 Payal Sharma | AWS DevOps Engineer
+![Header](./github-header-image.png)
 
-<div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" alt="DevOps Banner" width="100%"/>
-</div>
 
 ## 📋 Profile Summary
 
-Aspiring AWS DevOps Engineer with a BCA background. Proficient in AWS services, containerization (Docker), and container orchestration (Kubernetes). Skilled in automation (Jenkins and GitHub actions) and Infrastructure as Code (Terraform). Adept at CI/CD pipeline development and cloud resource optimization. Committed to enhancing operational efficiency through DevOps practices. 
+Hello!! I am Payal Sharma, an aspiring AWS DevOps Engineer with a BCA background. I have a deep interest in developing scalable, secure, and efficient cloud-based solutions. My technical expertise includes working with core AWS services, implementing containerization with Docker, and orchestrating deployments using Kubernetes. I am well-versed in automation tools such as Jenkins and GitHub Actions and proficient in Infrastructure as Code using Terraform. I am committed to optimizing cloud infrastructure, streamlining deployment workflows, and driving continuous improvement through DevOps best practices.
 
 ---
 
