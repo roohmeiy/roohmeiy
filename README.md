@@ -2,7 +2,7 @@
 
 ## 📋 Profile Summary
 
-Hi! I'm Payal Sharma, an AWS DevOps Engineer with expertise in cloud solutions, containerization (Docker/Kubernetes), CI/CD automation (Jenkins/GitHub Actions), and Infrastructure as Code. I focus on building scalable, secure systems and optimizing deployment workflows.
+I'm Payal Sharma, an AWS DevOps Engineer passionate about building scalable cloud solutions. I specialize in AWS services, containerization with Docker & Kubernetes, CI/CD automation using Jenkins & GitHub Actions, and Infrastructure as Code with Terraform. I focus on optimizing cloud infrastructure and streamlining deployment processes.
 
 ---
 
