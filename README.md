@@ -2,7 +2,7 @@
 
 ## 📋 Profile Summary
 
-Hello!! I am Payal Sharma, an aspiring AWS DevOps Engineer with a BCA background. I have a deep interest in developing scalable, secure, and efficient cloud-based solutions. My technical expertise includes working with core AWS services, implementing containerization with Docker, and orchestrating deployments using Kubernetes. I am well-versed in automation tools such as Jenkins and GitHub Actions and proficient in Infrastructure as Code using Terraform. I am committed to optimizing cloud infrastructure, streamlining deployment workflows, and driving continuous improvement through DevOps best practices.
+Hi! I'm Payal Sharma, an AWS DevOps Engineer with expertise in cloud solutions, containerization (Docker/Kubernetes), CI/CD automation (Jenkins/GitHub Actions), and Infrastructure as Code. I focus on building scalable, secure systems and optimizing deployment workflows.
 
 ---
 
@@ -42,9 +42,9 @@ Hello!! I am Payal Sharma, an aspiring AWS DevOps Engineer with a BCA background
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+  <br>GitHub Actions
+</td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       <br>C
@@ -83,18 +83,7 @@ Hello!! I am Payal Sharma, an aspiring AWS DevOps Engineer with a BCA background
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
-      <br>Ansible
-    </td>
+
     
   </tr>
 </table>
