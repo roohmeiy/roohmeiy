@@ -2,8 +2,7 @@
 
 ## 📋 Profile Summary
 
-I'm Payal Sharma, an AWS DevOps Engineer passionate about building scalable cloud solutions. I specialize in AWS services, containerization with Docker & Kubernetes, CI/CD automation using Jenkins & GitHub Actions, and Infrastructure as Code with Terraform. I focus on optimizing cloud infrastructure and streamlining deployment processes.
-
+I'm Payal Sharma, an AWS DevOps Engineer skilled in AWS cloud services, Docker, Kubernetes, Terraform, Github actions, CI/CD pipeline development. Experienced in deploying and managing scalable, secure and automated cloud infrastructures Passionate about automation, containerization, and cloud cost optimization to enhance system reliability and drive operational efficiency.
 ---
 
 
@@ -100,6 +99,12 @@ I'm Payal Sharma, an AWS DevOps Engineer passionate about building scalable clou
 </div>
 
 ## 🏆 Key Projects
+
+### 🌐 [Calvary Temple Website Migration](https://calvarytemple.in/)
+08/2025 – Present  
+Migrated the Calvary Temple website (desktop & mobile) to AWS, enhancing performance, scalability, and uptime. Implemented secure data backup to Amazon S3 and containerized applications using Docker for consistent deployments. Configured Nginx reverse proxy for efficient traffic routing across multiple domains and enabled SSL certificates to secure all endpoints with HTTPS.  
+**Focus:** Scalability, security, and high availability for production workloads.  
+**Tech Stack:** AWS (EC2, S3), Docker, Nginx
 
 ### 🚀 [CI/CD Pipeline for Strapi on AWS ECS (Fargate)](https://github.com/roohmeiy/Strapi-Deployment)
 Designed a zero-downtime CI/CD pipeline using GitHub Actions and Terraform to deploy a Strapi app on AWS ECS Fargate with Blue-Green deployment. Provisioned AWS infrastructure (VPC, subnets, ECS, IAM, ALB) using Terraform. Automated app build, ECR image push, and ECS deployment via GitHub Actions.  
